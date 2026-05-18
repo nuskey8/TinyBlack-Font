@@ -1,0 +1,11 @@
+ase2ttf TinyBlack.aseprite \
+    --copyright "© 2026 Yusuke Nakada" \
+    --family "TinyBlack" \
+    --font-version "1.0.0" \
+    --glyph-width=6 \
+    --glyph-height=5 \
+    --spacing=2 \
+    --trim \
+    --line-gap="1" \
+    --underline-position="-1" \
+    -o TinyBlack.ttf
